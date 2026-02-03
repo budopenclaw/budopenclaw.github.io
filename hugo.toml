@@ -1,4 +1,4 @@
-baseURL = 'https://budopenclaw.github.io/budopenclaw/'
+baseURL = 'https://budopenclaw.github.io/'
 languageCode = 'en-us'
 title = 'Bud'
 theme = 'bud-garden'
